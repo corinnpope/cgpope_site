@@ -227,8 +227,8 @@ export default function About() {
           gap: "1.5rem",
         }}>
           <img
-            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663253683569/QkVNSe4xhvZ8NfWV9VnaSE/IMG_4060_aca471de.jpeg"
-            alt="Tree canopy painting by Christine G. Pope"
+            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663253683569/QkVNSe4xhvZ8NfWV9VnaSE/IMG_4091_005aef73.jpeg"
+            alt="Sunset seascape painting by Christine G. Pope"
             style={{ width: "100%", height: "auto", display: "block" }}
           />
           <img
